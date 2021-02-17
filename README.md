@@ -16,10 +16,10 @@ Please contact ze.ding@monash.edu if you have questions about the paper or the c
 @ARTICLE{9343717,
   author={Z. Y. {Ding} and J. Y. {Loo} and V. M. {Baskaran} and S. G. {Nurzaman} and C. P. {Tan}},
   journal={IEEE Robotics and Automation Letters}, 
-  title={Predictive Uncertainty Estimation using Deep Learning for Soft Robot Multimodal Sensing}, 
+  title={Predictive Uncertainty Estimation Using Deep Learning for Soft Robot Multimodal Sensing}, 
   year={2021},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={6},
+  number={2},
+  pages={951-957},
   doi={10.1109/LRA.2021.3056066}}
 ```
